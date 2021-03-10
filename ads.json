@@ -1,0 +1,37 @@
+{
+	"GuideData": {
+
+		"AdsController": {
+			
+			"NetworkAds": "facebook",
+
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+			"BannerFacebook": "3500938203344968_3500938943344894",
+			"InterstitialFacebook1": "3500938203344968_3500941990011256",
+			"InterstitialFacebook2": "3500938203344968_3500944006677721",
+			"InterstitialFacebook3": "3500938203344968_3500945976677524",
+			"InterstitialFacebook4": "3500938203344968_3500948406677281",
+			"NativeFacebook": "253774966397598_253777036397391",
+			"BannerNativeFacebook": "3500938203344968_3500959233342865",
+			
+			"unityGameID":"4009875",
+			"BannerUnity":"diamondspamulabanner",
+			"InterstitialUnity":"diamondspamulainter",
+						
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			
+			"watchNow": false,
+			"Rating": false
+			
+		}
+
+	}
+}
